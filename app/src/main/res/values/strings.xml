@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NetworkChangeChecker</string>
+    <string name="reset">RESET</string>
+    <string name="TYPE_MOBILE">TYPE_MOBILE : 0</string>
+    <string name="TYPE_WIFI">TYPE_WIFI : 0</string>
+    <string name="TOTAL">TOTAL : 0</string>
+</resources>
